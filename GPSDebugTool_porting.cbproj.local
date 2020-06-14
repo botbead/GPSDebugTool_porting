@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/09/15 15:02:46.000.210,=C:\Users\HelloWorld\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2014/09/15 15:02:46.000.184,=C:\Users\HelloWorld\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2014/09/18 14:39:04.000.654,=C:\Users\HelloWorld\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2014/09/18 14:39:07.000.300,=C:\Users\HelloWorld\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2014/09/30 11:18:09.000.970,=C:\Users\HelloWorld\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2014/09/30 11:18:10.000.358,=C:\Users\HelloWorld\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2014/11/26 17:17:36.000.818,=C:\Users\HelloWorld\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2014/11/26 17:17:36.000.602,=C:\Users\HelloWorld\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2014/12/03 09:19:38.000.835,=C:\Users\HelloWorld\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2014/12/03 09:19:38.000.730,=C:\Users\HelloWorld\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2014/12/03 09:20:04.000.580,C:\Users\HelloWorld\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\GPSDebugTool_porting\main_form.dfm</Transaction>
+    <Transaction>2014/12/03 09:20:04.000.580,C:\Users\HelloWorld\Documents\Embarcadero\Studio\Projects\Unit1.h=E:\GPSDebugTool_porting\main_form.h</Transaction>
+    <Transaction>2014/12/03 09:20:04.000.580,C:\Users\HelloWorld\Documents\Embarcadero\Studio\Projects\Unit1.cpp=E:\GPSDebugTool_porting\main_form.cpp</Transaction>
+    <Transaction>2014/12/03 09:20:22.000.623,C:\Users\HelloWorld\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=E:\GPSDebugTool_porting\GPSDebugTool_portingPCH1.h</Transaction>
+    <Transaction>2014/12/03 09:20:26.000.415,C:\Users\HelloWorld\Documents\Embarcadero\Studio\Projects\Project1.cbproj=E:\GPSDebugTool_porting\GPSDebugTool_porting.cbproj</Transaction>
+    <Transaction>2014/12/03 09:21:36.000.866,=E:\GPSDebugTool_porting\pcommex.cpp</Transaction>
+    <Transaction>2014/12/03 09:21:36.000.872,=E:\GPSDebugTool_porting\SerialBuf.cpp</Transaction>
+    <Transaction>2014/12/03 09:21:54.000.604,=E:\GPSDebugTool_porting\PCOMM.H</Transaction>
+    <Transaction>2014/12/03 09:21:54.000.611,=E:\GPSDebugTool_porting\PCOMM.LIB</Transaction>
+    <Transaction>2014/12/03 15:09:06.000.682,=E:\GPSDebugTool_porting\Unit1.cpp</Transaction>
+    <Transaction>2014/12/03 15:09:16.000.573,E:\GPSDebugTool_porting\Unit1.h=E:\GPSDebugTool_porting\GPS_Protocol.h</Transaction>
+    <Transaction>2014/12/03 15:09:16.000.573,E:\GPSDebugTool_porting\Unit1.cpp=E:\GPSDebugTool_porting\GPS_Protocol.cpp</Transaction>
+    <Transaction>2014/12/09 16:28:12.000.943,=E:\GPSDebugTool_porting\Unit1.cpp</Transaction>
+    <Transaction>2014/12/09 16:28:27.000.161,E:\GPSDebugTool_porting\GPSDebugToolDlg.h=E:\GPSDebugTool_porting\Unit1.h</Transaction>
+    <Transaction>2014/12/09 16:28:27.000.161,E:\GPSDebugTool_porting\GPSDebugToolDlg.cpp=E:\GPSDebugTool_porting\Unit1.cpp</Transaction>
+    <Transaction>2014/12/09 16:35:53.000.505,E:\GPSDebugTool_porting\GPSDebugToolDlg.cpp=</Transaction>
+    <Transaction>2014/12/10 15:24:46.000.176,=E:\GPSDebugTool_porting\SimpleThreads.h</Transaction>
+    <Transaction>2014/12/10 15:26:17.000.363,=E:\GPSDebugTool_porting\SimpleThreads2.lib</Transaction>
+  </Transactions>  <BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
